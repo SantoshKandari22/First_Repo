@@ -13,11 +13,11 @@
   </a>
 </p>
 
-- 🌱 I’m currently in a **learning phase**, diving deeper into modern frontend ecosystems, especially **React**, **Next.js**, and **TypeScript**. I'm also exploring backend basics with **Node.js** and **API integrations** to become a full-stack developer.
+- 🌱 I’m currently working on expanding my expertise in the modern frontend ecosystem, especially **React**, **Next.js**, and **TypeScript**. I'm also hands-on with backend fundamentals using **Node.js** and **API integrations** to become a full-stack developer.
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, Responsive Design, Git & GitHub workflows**. I love discussing clean UI design and performance optimization tips too!
 
-- 📚 Currently learning:  
+- 📚 Currently working on:  
   - 🔹 Advanced React patterns  
   - 🔹 TypeScript in real-world projects  
   - 🔹 REST APIs & third-party API integration  
