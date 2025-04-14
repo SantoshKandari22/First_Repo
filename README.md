@@ -13,13 +13,24 @@
   </a>
 </p>
 
-- 🌱 I’m currently in a **learning phase**
+- 🌱 I’m currently in a **learning phase**, diving deeper into modern frontend ecosystems, especially **React**, **Next.js**, and **TypeScript**. I'm also exploring backend basics with **Node.js** and **API integrations** to become a full-stack developer.
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, Responsive Design, Git & GitHub workflows**. I love discussing clean UI design and performance optimization tips too!
+
+- 📚 Currently learning:  
+  - 🔹 Advanced React patterns  
+  - 🔹 TypeScript in real-world projects  
+  - 🔹 REST APIs & third-party API integration  
+  - 🔹 Component libraries like Tailwind CSS, DaisyUI, Chakra UI  
+
+- 🔍 Areas I'm exploring next:  
+  - 🚀 Full-stack development with Next.js (App Router, Server Actions)  
+  - ⚙️ Automation using GitHub Actions  
+  - 🧠 Soft skills: Communication, documentation, and collaboration in dev teams  
 
 - 📫 How to reach me: **kandarisantosh3@gmail.com**
 
-- ⚡ Fun fact: *"My pet writes code better than me!"*
+- ⚡ Fun fact: *"My pet writes code better than me!"* But I debug it better 😄
 
 ---
 
